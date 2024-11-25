@@ -12,9 +12,12 @@
   "description": "Backend para aplicacion web de lubricentro",
   "dependencies": {
     "dotenv": "16.4.5",
-    "express": "4.21.1"
+    "express": "4.21.1",
+    "sequelize": "6.37.5",
+    "sqlite3": "5.1.7"
   },
   "devDependencies": {
+    "@types/dotenv": "6.1.1",
     "@types/express": "5.0.0",
     "typescript": "5.7.2"
   }
